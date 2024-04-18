@@ -1,0 +1,25 @@
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.nav-item {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 34px;
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: #fcbb3a !important;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.nav-link:hover {
+    color: #fcbb3a !important;
+}
